@@ -1,0 +1,11 @@
+.img-todo{
+    
+    padding: 20px;
+    border-width: 5px;
+    height: 150px; 
+    background-color: rgb(77, 7, 7);  
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(138, 40, 11);
+}

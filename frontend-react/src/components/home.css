@@ -1,0 +1,11 @@
+img{
+    
+    padding: 20px;
+    border-width: 5px;
+    height: 350px; 
+    background-color: rgb(77, 7, 7);  
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: chocolate;
+}

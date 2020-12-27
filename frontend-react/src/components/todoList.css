@@ -1,0 +1,9 @@
+.container{
+    border-width: 10px;
+   background-color: rgb(199, 155, 140);
+    padding: 15px;
+    width: auto;
+    height: 320px;
+    align-content: center;
+    flex: 1;
+}
